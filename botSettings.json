@@ -1,0 +1,6 @@
+{
+  "token":"NjU2MjU4NTY3MDc0MDg2OTQ2.Xlmtqw.8lVd1CqphvY6MjaXt67G6MBUKRU",
+  "prefix":"!",
+  "Permissions":["ADMINISTRATOR","KICK_MEMBERS","MANAGE_MESSAGES","MANAGE_ROLES","MANAGE_NICKNAMES"],
+  "Commands": ["info","setWelcomeChannelid","setJoinRole","setBotRole","kick"]
+}
